@@ -23,6 +23,16 @@
 		FF0B79FA17C84E110098A35E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF0B79D517C84E110098A35E /* Foundation.framework */; };
 		FF0B7A0217C84E110098A35E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A0017C84E110098A35E /* InfoPlist.strings */; };
 		FF0B7A0517C84E110098A35E /* BallRollingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF0B7A0417C84E110098A35E /* BallRollingTests.m */; };
+		FF0B7A1717C84E590098A35E /* base.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A0E17C84E590098A35E /* base.png */; };
+		FF0B7A1817C84E590098A35E /* game_over.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A0F17C84E590098A35E /* game_over.png */; };
+		FF0B7A1917C84E590098A35E /* gem.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A1017C84E590098A35E /* gem.png */; };
+		FF0B7A1A17C84E590098A35E /* Gem2.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A1117C84E590098A35E /* Gem2.png */; };
+		FF0B7A1B17C84E590098A35E /* goal.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A1217C84E590098A35E /* goal.png */; };
+		FF0B7A1C17C84E590098A35E /* hit.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A1317C84E590098A35E /* hit.png */; };
+		FF0B7A1E17C84E590098A35E /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A1517C84E590098A35E /* pin.png */; };
+		FF0B7A1F17C84E590098A35E /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A1617C84E590098A35E /* start.png */; };
+		FF0B7A2117C84F080098A35E /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A2017C84F080098A35E /* icon.png */; };
+		FF0B7A2317C8520D0098A35E /* base1.png in Resources */ = {isa = PBXBuildFile; fileRef = FF0B7A2217C8520D0098A35E /* base1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +68,16 @@
 		FF0B7A0117C84E110098A35E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FF0B7A0317C84E110098A35E /* BallRollingTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BallRollingTests.h; sourceTree = "<group>"; };
 		FF0B7A0417C84E110098A35E /* BallRollingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BallRollingTests.m; sourceTree = "<group>"; };
+		FF0B7A0E17C84E590098A35E /* base.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = base.png; sourceTree = "<group>"; };
+		FF0B7A0F17C84E590098A35E /* game_over.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = game_over.png; sourceTree = "<group>"; };
+		FF0B7A1017C84E590098A35E /* gem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gem.png; sourceTree = "<group>"; };
+		FF0B7A1117C84E590098A35E /* Gem2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Gem2.png; sourceTree = "<group>"; };
+		FF0B7A1217C84E590098A35E /* goal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goal.png; sourceTree = "<group>"; };
+		FF0B7A1317C84E590098A35E /* hit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hit.png; sourceTree = "<group>"; };
+		FF0B7A1517C84E590098A35E /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = "<group>"; };
+		FF0B7A1617C84E590098A35E /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
+		FF0B7A2017C84F080098A35E /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		FF0B7A2217C8520D0098A35E /* base1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = base1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +107,16 @@
 		FF0B79C717C84E110098A35E = {
 			isa = PBXGroup;
 			children = (
+				FF0B7A2217C8520D0098A35E /* base1.png */,
+				FF0B7A2017C84F080098A35E /* icon.png */,
+				FF0B7A0E17C84E590098A35E /* base.png */,
+				FF0B7A0F17C84E590098A35E /* game_over.png */,
+				FF0B7A1017C84E590098A35E /* gem.png */,
+				FF0B7A1117C84E590098A35E /* Gem2.png */,
+				FF0B7A1217C84E590098A35E /* goal.png */,
+				FF0B7A1317C84E590098A35E /* hit.png */,
+				FF0B7A1517C84E590098A35E /* pin.png */,
+				FF0B7A1617C84E590098A35E /* start.png */,
 				FF0B79D917C84E110098A35E /* BallRolling */,
 				FF0B79FD17C84E110098A35E /* BallRollingTests */,
 				FF0B79D217C84E110098A35E /* Frameworks */,
@@ -236,6 +266,16 @@
 				FF0B79E817C84E110098A35E /* Default@2x.png in Resources */,
 				FF0B79EA17C84E110098A35E /* Default-568h@2x.png in Resources */,
 				FF0B79ED17C84E110098A35E /* MainStoryboard.storyboard in Resources */,
+				FF0B7A1717C84E590098A35E /* base.png in Resources */,
+				FF0B7A1817C84E590098A35E /* game_over.png in Resources */,
+				FF0B7A1917C84E590098A35E /* gem.png in Resources */,
+				FF0B7A1A17C84E590098A35E /* Gem2.png in Resources */,
+				FF0B7A1B17C84E590098A35E /* goal.png in Resources */,
+				FF0B7A1C17C84E590098A35E /* hit.png in Resources */,
+				FF0B7A1E17C84E590098A35E /* pin.png in Resources */,
+				FF0B7A1F17C84E590098A35E /* start.png in Resources */,
+				FF0B7A2117C84F080098A35E /* icon.png in Resources */,
+				FF0B7A2317C8520D0098A35E /* base1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
